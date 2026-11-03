@@ -1,2 +1,2 @@
 # Kubernetes_Troubleshooting
-This repo. will contain the basic to advance day 2 kubernetes troubleshooting tasks
+**This repo. contains basic to advance day-2 kubernetes trouble-shooting tasks.**
