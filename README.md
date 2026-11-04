@@ -3,4 +3,4 @@
 ---
 
 - ## ACCESS THEM HASSLE FREE FROM BELOW :-
-- **1 [kubectl-kubeconfig-troubleshooting]()**
+**1 [kubectl-kubeconfig-troubleshooting](https://github.com/Prabhakarrayal/KUBERNETES-TROUBLESHOOT/blob/main/kubectl-kubeconfig-troubleshooting.md)**
