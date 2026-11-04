@@ -3,4 +3,4 @@
 ---
 
 - ## ACCESS THEM HASSLE FREE FROM BELOW :-
-[kubectl-kubeconfig-troubleshooting]()
+- **1 [kubectl-kubeconfig-troubleshooting]()**
