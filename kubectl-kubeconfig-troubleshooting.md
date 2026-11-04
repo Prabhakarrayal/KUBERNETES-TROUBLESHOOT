@@ -1,4 +1,4 @@
-# Kubernetes Troubleshooting Notes
+# Kubernetes Troubleshooting About :-
 
 ## Fixing `kubectl` Configuration and Restoring Cluster Access
 
